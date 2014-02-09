@@ -4,7 +4,7 @@ angular.module('yoApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
-  'ngRoute'
+  'ngRoute' 
 ])
   .config(function ($routeProvider) {
     $routeProvider
